@@ -1,0 +1,24 @@
+{
+  "name": "carousell-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --loglevel warn --write \"**/{e2e,helloworld}/**/*.js\"",
+    "gitUpdate": "git add . && git commit -m \"update carousell-playlist,\"",
+    "goGithubRepo": "firefox https://github.com/louiscklaw/carousell-playlist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiscklaw/carousell-playlist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louiscklaw/carousell-playlist/issues"
+  },
+  "homepage": "https://github.com/louiscklaw/carousell-playlist#readme",
+  "dependencies": {}
+}
